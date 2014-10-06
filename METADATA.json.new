@@ -1,0 +1,24 @@
+{
+  "name": "Nova Mono",
+  "designer": "Wojciech Kalinowski",
+  "license": "OFL",
+  "visibility": "External",
+  "category": "Monospace",
+  "size": 148642,
+  "fonts": [
+    {
+      "name": "NovaMono",
+      "style": "normal",
+      "weight": 400,
+      "filename": "NovaMono-Regular.ttf",
+      "postScriptName": "NovaMono",
+      "fullName": "NovaMono",
+      "copyright": "wmk69\nSIL - Open Font License v.1.1"
+    }
+  ],
+  "subsets": [
+    "latin",
+    "menu"
+  ],
+  "dateAdded": "2011-03-23"
+}
